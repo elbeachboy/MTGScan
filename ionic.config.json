@@ -1,0 +1,7 @@
+{
+  "name": "MTGScan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
